@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="600.0" minWidth="700.0" prefHeight="600.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.footballmanager.LigaController">
+    <fx:include source="menu-bar-user.fxml" />
+   <bottom>
+      <TableView fx:id="ligaTableView" minWidth="700.0" prefHeight="502.0" prefWidth="700.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="klubTableColumn" prefWidth="199.0" text="Klub" />
+          <TableColumn fx:id="odigranoTableColumn" prefWidth="125.0" text="Odigrano utakmica" />
+          <TableColumn fx:id="zabijenoTableColumn" prefWidth="125.0" text="Zabijeno golova" />
+          <TableColumn fx:id="primljenoTableColumn" prefWidth="125.0" text="Primljeno golova" />
+          <TableColumn fx:id="bodoviTableColumn" prefWidth="125.0" text="Bodova" />
+        </columns>
+      </TableView>
+   </bottom>
+   <center>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Ligaška tablica" wrappingWidth="118.1898193359375" BorderPane.alignment="CENTER">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <BorderPane.margin>
+            <Insets top="20.0" />
+         </BorderPane.margin>
+      </Text>
+   </center>
+</BorderPane>
