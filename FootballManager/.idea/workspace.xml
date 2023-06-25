@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94c24124-2007-495a-9612-a70bf256799e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JE4eZu2H0BPoTqK1drR6gtfv3E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/[M] TVZ/3. semestar/Programiranje u jeziku Java/Projekt/Football-Manager/src/main/resources/com/example/footballmanager&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\[M] TVZ\3. semestar\Programiranje u jeziku Java\Projekt\Football-Manager\src\main\resources\com\example\footballmanager" />
+      <recent name="E:\[M] TVZ\3. semestar\Programiranje u jeziku Java\Projekt\Football-Manager\src\main\resources" />
+      <recent name="E:\[M] TVZ\3. semestar\Programiranje u jeziku Java\Projekt\Football-Manager\dat" />
+      <recent name="E:\[M] TVZ\3. semestar\Programiranje u jeziku Java\Vjezbe\Boras-10\src\main\java" />
+      <recent name="E:\[M] TVZ\3. semestar\Programiranje u jeziku Java\Vjezbe\Boras-9\dat" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.footballmanager" />
+      <recent name="niti" />
+      <recent name="iznimke" />
+      <recent name="util" />
+      <recent name="sortiranje" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.HelloApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.footballmanager.HelloApplication" />
+      <module name="Football-Manager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c24124-2007-495a-9612-a70bf256799e" name="Changes" comment="" />
+      <created>1671630007116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671630007116</updated>
+      <workItem from="1671630008586" duration="8048000" />
+      <workItem from="1671716262615" duration="1190000" />
+      <workItem from="1671722673676" duration="2891000" />
+      <workItem from="1673467991952" duration="4614000" />
+      <workItem from="1673509924440" duration="4493000" />
+      <workItem from="1673515366237" duration="1958000" />
+      <workItem from="1673517368947" duration="71000" />
+      <workItem from="1673528409951" duration="698000" />
+      <workItem from="1674067372322" duration="8416000" />
+      <workItem from="1674147940400" duration="8000" />
+      <workItem from="1674594977920" duration="28000" />
+      <workItem from="1674595312299" duration="60000" />
+      <workItem from="1674597402476" duration="18000" />
+      <workItem from="1674735163517" duration="2014000" />
+      <workItem from="1674752438379" duration="618000" />
+      <workItem from="1674753653236" duration="48000" />
+      <workItem from="1674906559209" duration="323000" />
+      <workItem from="1675365126483" duration="136000" />
+      <workItem from="1675623520041" duration="1676000" />
+      <workItem from="1675970296658" duration="1068000" />
+      <workItem from="1675971391796" duration="91000" />
+      <workItem from="1675972154426" duration="81000" />
+      <workItem from="1676042486800" duration="1544000" />
+      <workItem from="1676110131686" duration="5502000" />
+      <workItem from="1676208780308" duration="4982000" />
+      <workItem from="1676221633123" duration="17756000" />
+      <workItem from="1676300543352" duration="22142000" />
+      <workItem from="1676326579971" duration="14000" />
+      <workItem from="1676387595401" duration="21565000" />
+      <workItem from="1676410798608" duration="158000" />
+      <workItem from="1676413098673" duration="646000" />
+      <workItem from="1676470417187" duration="17060000" />
+      <workItem from="1676487841904" duration="590000" />
+      <workItem from="1676488479547" duration="479000" />
+      <workItem from="1676490719267" duration="981000" />
+      <workItem from="1676534644771" duration="8827000" />
+      <workItem from="1676558029195" duration="2688000" />
+      <workItem from="1676560984129" duration="1114000" />
+      <workItem from="1676567782494" duration="215000" />
+      <workItem from="1676999213707" duration="273000" />
+      <workItem from="1679139329490" duration="44000" />
+      <workItem from="1681922379713" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
