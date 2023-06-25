@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.footballmanager.HelloController">
+    <children>
+        <MenuBar prefHeight="25.0" prefWidth="700.0">
+            <menus>
+                <Menu mnemonicParsing="false" text="Igrači">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPretraguIgracaUser" text="Pretraga" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Treneri">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPretraguTreneraUser" text="Pretraga" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Stadioni">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPretraguStadionaUser" text="Pretraga" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Klubovi">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPretraguKlubovaUser" text="Pretraga" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Liga">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziLiguUser" text="Ligaška tablica" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Logout">
+                   <items>
+                      <MenuItem mnemonicParsing="false" onAction="#prikaziLoginEkran" text="Logout" />
+                   </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </children>
+</AnchorPane>

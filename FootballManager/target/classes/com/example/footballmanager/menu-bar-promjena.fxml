@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.footballmanager.HelloController">
+    <children>
+        <MenuBar prefHeight="25.0" prefWidth="950.0">
+            <menus>
+                <Menu mnemonicParsing="false" text="Igrači">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPretraguIgraca" text="Pretraga" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziUnosIgraca" text="Unos" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziBrisanjeIgraca" text="Brisanje" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziAzuriranjeIgraca" text="Ažuriranje" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Treneri">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPretraguTrenera" text="Pretraga" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziUnosTrenera" text="Unos" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziBrisanjeTrenera" text="Brisanje" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziAzuriranjeTrenera" text="Ažuriranje" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Stadioni">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPretraguStadiona" text="Pretraga" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziUnosStadiona" text="Unos" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziBrisanjeStadiona" text="Brisanje" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziAzuriranjeStadiona" text="Ažuriranje" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Klubovi">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPretraguKlubova" text="Pretraga" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziUnosKlubova" text="Unos" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziBrisanjeKlubova" text="Brisanje" />
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziAzuriranjeKlubova" text="Ažuriranje" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Liga">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziLigu" text="Ligaška tablica" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Promjene">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziPromjeneEkran" text="Promjene" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Logout">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#prikaziLoginEkran" text="Logout" />
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </children>
+</AnchorPane>

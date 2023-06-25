@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="950.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.footballmanager.PromjeneController">
+   <children>
+      <fx:include source="menu-bar-promjena.fxml" />
+      <TextArea fx:id="textArea" layoutX="8.0" layoutY="34.0" prefHeight="560.0" prefWidth="935.0" />
+   </children>
+</AnchorPane>
