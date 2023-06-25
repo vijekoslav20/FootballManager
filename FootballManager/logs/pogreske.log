@@ -1,0 +1,287 @@
+2023-02-12 15:08:19,184 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 15:09:41,407 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 15:14:44,576 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 15:16:53,848 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 20:31:06,666 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka - Spremanje studenta
+2023-02-12 20:31:06,668 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 20:40:46,630 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka - Spremanje igrača
+2023-02-12 20:40:46,632 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 20:41:40,990 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka - Spremanje igrača
+2023-02-12 20:41:40,992 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 20:46:35,873 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka - Spremanje igrača
+2023-02-12 20:46:35,880 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 20:49:14,157 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka - Spremanje igrača
+2023-02-12 20:49:14,160 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 21:13:39,839 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka - Spremanje trenera
+2023-02-12 21:13:39,852 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-12 23:05:36,239 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-12 23:14:13,687 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-12 23:19:23,054 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-12 23:19:31,141 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-13 16:04:22,215 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-13 16:29:06,556 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju stadiona!
+2023-02-14 18:19:11,790 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 20:24:23,848 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener Stefano Pioli već trenira AC Milan
+2023-02-14 20:24:46,517 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener Stefano Pioli već trenira AC Milan
+2023-02-14 20:29:08,128 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener Stefano Pioli već trenira AC Milan
+2023-02-14 20:29:13,015 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener Stefano Pioli već trenira AC Milan
+2023-02-14 20:46:21,457 ERROR [JavaFX Application Thread] i.BazaPodatakaException [StadionKoristenDvaputException.java:16] Stadion San Siro već koristi dva kluba!
+2023-02-14 21:57:34,184 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-14 22:33:55,363 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-14 22:35:39,676 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-14 22:35:40,660 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:16] Unešen String umjesto broja za vrijednost
+2023-02-14 22:36:36,636 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-14 22:36:37,517 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:16] Unešen String umjesto broja za vrijednost
+2023-02-14 22:38:28,035 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri ažuriranju igrača!
+2023-02-14 22:38:29,165 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:16] Unešen String umjesto broja za vrijednost
+2023-02-15 15:41:05,518 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-15 16:04:12,921 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener adssf tttttttt već trenira aaaassas
+2023-02-15 16:05:00,163 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener adssf tttttttt već trenira aaaassas
+2023-02-15 16:05:29,709 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener as asass već trenira jhaiohoias
+2023-02-15 16:05:42,523 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener adssf tttttttt već trenira aaaassas
+2023-02-15 16:05:54,060 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener as asass već trenira jhaiohoias
+2023-02-15 16:59:13,762 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener adssf tttttttt već trenira drugi klub!
+2023-02-15 16:59:23,860 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener as asass već trenira drugi klub!
+2023-02-15 17:03:33,898 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener adssf tttttttt već trenira drugi klub!
+2023-02-15 17:03:40,589 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener as asass već trenira drugi klub!
+2023-02-15 17:04:40,333 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener as asass već trenira drugi klub!
+2023-02-15 17:11:42,356 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener as asass već trenira drugi klub!
+2023-02-15 19:32:36,986 ERROR [JavaFX Application Thread] c.e.f.PrikazKlubaController [PrikazKlubaController.java:318] Nije odabran klub za simulaciju utakmice
+java.lang.NullPointerException: Cannot invoke "entitet.Klub.toString()" because the return value of "javafx.scene.control.ComboBox.getValue()" is null
+	at com.example.footballmanager/com.example.footballmanager.PrikazKlubaController.onSimulateMatchButtonClick(PrikazKlubaController.java:311)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at javafx.base@19-ea/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275)
+	at javafx.fxml@19-ea/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84)
+	at javafx.fxml@19-ea/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1854)
+	at javafx.fxml@19-ea/javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base@19-ea/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19-ea/javafx.scene.Node.fireEvent(Node.java:8797)
+	at javafx.controls@19-ea/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls@19-ea/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208)
+	at javafx.controls@19-ea/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base@19-ea/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19-ea/javafx.scene.Scene$MouseHandler.process(Scene.java:3881)
+	at javafx.graphics@19-ea/javafx.scene.Scene.processMouseEvent(Scene.java:1874)
+	at javafx.graphics@19-ea/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2607)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449)
+	at javafx.graphics@19-ea/com.sun.glass.ui.View.handleMouseEvent(View.java:551)
+	at javafx.graphics@19-ea/com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at javafx.graphics@19-ea/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics@19-ea/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+2023-02-15 19:32:38,952 ERROR [JavaFX Application Thread] c.e.f.PrikazKlubaController [PrikazKlubaController.java:318] Nije odabran klub za simulaciju utakmice
+java.lang.NullPointerException: Cannot invoke "entitet.Klub.toString()" because the return value of "javafx.scene.control.ComboBox.getValue()" is null
+	at com.example.footballmanager/com.example.footballmanager.PrikazKlubaController.onSimulateMatchButtonClick(PrikazKlubaController.java:311)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at javafx.base@19-ea/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275)
+	at javafx.fxml@19-ea/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84)
+	at javafx.fxml@19-ea/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1854)
+	at javafx.fxml@19-ea/javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base@19-ea/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19-ea/javafx.scene.Node.fireEvent(Node.java:8797)
+	at javafx.controls@19-ea/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls@19-ea/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208)
+	at javafx.controls@19-ea/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base@19-ea/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19-ea/javafx.scene.Scene$MouseHandler.process(Scene.java:3881)
+	at javafx.graphics@19-ea/javafx.scene.Scene.processMouseEvent(Scene.java:1874)
+	at javafx.graphics@19-ea/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2607)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449)
+	at javafx.graphics@19-ea/com.sun.glass.ui.View.handleMouseEvent(View.java:551)
+	at javafx.graphics@19-ea/com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at javafx.graphics@19-ea/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics@19-ea/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+2023-02-15 20:13:40,326 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-15 21:34:08,305 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
+2023-02-16 12:47:32,511 ERROR [JavaFX Application Thread] c.e.f.StadionUnosController [StadionUnosController.java:62] Unešen String umjesto broja za kapacitet
+java.lang.NumberFormatException: For input string: "azifgadukifg"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:665)
+	at java.base/java.lang.Integer.parseInt(Integer.java:781)
+	at com.example.footballmanager/com.example.footballmanager.StadionUnosController.onSubmitButtonClick(StadionUnosController.java:53)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at javafx.base@19-ea/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275)
+	at javafx.fxml@19-ea/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84)
+	at javafx.fxml@19-ea/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1854)
+	at javafx.fxml@19-ea/javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base@19-ea/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19-ea/javafx.scene.Node.fireEvent(Node.java:8797)
+	at javafx.controls@19-ea/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls@19-ea/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208)
+	at javafx.controls@19-ea/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base@19-ea/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19-ea/javafx.scene.Scene$MouseHandler.process(Scene.java:3881)
+	at javafx.graphics@19-ea/javafx.scene.Scene.processMouseEvent(Scene.java:1874)
+	at javafx.graphics@19-ea/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2607)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449)
+	at javafx.graphics@19-ea/com.sun.glass.ui.View.handleMouseEvent(View.java:551)
+	at javafx.graphics@19-ea/com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at javafx.graphics@19-ea/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics@19-ea/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+2023-02-16 12:48:40,384 ERROR [JavaFX Application Thread] i.BazaPodatakaException [ZauzetiTrenerException.java:16] Trener Carlo Ancelotti već trenira Real Madrid
+2023-02-16 13:04:06,827 ERROR [JavaFX Application Thread] c.e.f.StadionUnosController [StadionUnosController.java:62] Unešen String umjesto broja za kapacitet
+java.lang.NumberFormatException: For input string: "vjisdhf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:665)
+	at java.base/java.lang.Integer.parseInt(Integer.java:781)
+	at com.example.footballmanager/com.example.footballmanager.StadionUnosController.onSubmitButtonClick(StadionUnosController.java:53)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at javafx.base@19-ea/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275)
+	at javafx.fxml@19-ea/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84)
+	at javafx.fxml@19-ea/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1854)
+	at javafx.fxml@19-ea/javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base@19-ea/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19-ea/javafx.scene.Node.fireEvent(Node.java:8797)
+	at javafx.controls@19-ea/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls@19-ea/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208)
+	at javafx.controls@19-ea/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19-ea/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19-ea/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19-ea/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19-ea/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base@19-ea/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19-ea/javafx.scene.Scene$MouseHandler.process(Scene.java:3881)
+	at javafx.graphics@19-ea/javafx.scene.Scene.processMouseEvent(Scene.java:1874)
+	at javafx.graphics@19-ea/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2607)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424)
+	at javafx.graphics@19-ea/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449)
+	at javafx.graphics@19-ea/com.sun.glass.ui.View.handleMouseEvent(View.java:551)
+	at javafx.graphics@19-ea/com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at javafx.graphics@19-ea/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics@19-ea/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+2023-02-16 15:51:47,793 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Pogreška pri brisanju kluba!
+2023-02-21 18:08:06,889 ERROR [JavaFX Application Thread] i.BazaPodatakaException [BazaPodatakaException.java:22] Došlo je do pogreške u radu s bazom podataka
